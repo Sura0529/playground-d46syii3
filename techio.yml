@@ -1,0 +1,10 @@
+title: Haskell Project
+plan:
+- title: Welcome
+  statement: markdowns/welcome.md
+projects:
+  haskell:
+    root: /haskell-project
+    runner:
+      name: haskell
+      version: '8'
